@@ -15,7 +15,12 @@
 
 - 了解Point、Scalar、Size、Rect类
 - 了解cvColor(), line(), ellipse(), rectangle(), circle(), fillPoly()函数
-- 设计并书写一个自定绘图函数
+- 设计并书写一个自定义绘图函数
+
+## 集成性能基元
+
+- 了解Intel的IPP库使用(有兴趣的话)
+
 
 ## 练习题
 

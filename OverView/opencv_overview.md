@@ -4,7 +4,7 @@
 
 
 - 了解[什么是OpenCV](http://zh.wikipedia.org/wiki/OpenCV)
-- 阅读[OpenCV编程简介(英文)](http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/)
+- 阅读[OpenCV编程简介(英文)](http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/)(虽然有点老)
 
 ## 相关工具
 
