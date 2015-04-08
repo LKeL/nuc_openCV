@@ -35,6 +35,11 @@
 
 ### OpenCV core 组建进阶
 
-- coming soon
+- 阅读[OpenCV core 组件进阶](OpenCVLean/core.md)并完成相应问题
+- 学习SVN，有兴趣可以看看各版本控制系统的区别，用[tortoiseSVN](http://tortoisesvn.net/downloads.html)
+更新你的openCV
+<br>*毕竟的Beta版本，时刻更新才是王道*
+
+### OpenCV 图像处理
 
 
